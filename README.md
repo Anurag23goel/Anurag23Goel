@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag23goel&label=Profile%20views&color=0e75b6&style=flat" alt="anurag23goel" /> </p>
 
-- 🌱 I’m currently learning **Next.JS, TypeScript**
+- 🌱 I’m currently learning **Next.JS, TypeScript, DevOps, Cloud, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anurag23goel?tab=repositories](https://github.com/Anurag23goel?tab=repositories)
 
